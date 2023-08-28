@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso de Henry modulo 2 PrepCourse
+Prueba de como crear un repositorio y clonarlo desde github a mi PC
